@@ -1,7 +1,6 @@
 # Machine-Learning-Projects
-ML Models
-(1) Unsupervised Learning of Mall Customers  based on their Annual Income and Spending Score
-using Hierarchical Clustering.
+
+(1) Unsupervised Learning of Mall Customers  based on their Annual Income and Spending Score using Hierarchical Clustering.
 
 (2)Wine Quality Prediction(Classification Problem) using Naive Bayes, KNN, and SVM.
 
